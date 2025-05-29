@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+Agentic-AI/langgraph-studio/.langgraph_api
+Agentic-AI\langgraph-studio\__pycache__
+
+# env file
+.env
+env
+.env.local
+
+# Virtual environments
+venv
